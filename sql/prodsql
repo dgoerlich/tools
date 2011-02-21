@@ -1,0 +1,1 @@
+ssh dgoerlich@server003.designinginteractive.com mysql $1 < ~/Database/$2.sql

@@ -1,0 +1,2 @@
+mysql $1 < ~/Database/$2.sql
+
