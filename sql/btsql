@@ -1,0 +1,1 @@
+ssh root@97.107.135.55 mysql $1 < ~/Database/$2.sql
