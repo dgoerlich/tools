@@ -1,2 +1,2 @@
 #!/bin/bash
-gnome-terminal --geometry=200x60+150+50 --profile=development --hide-menubar
+gnome-terminal --geometry=1800x1000+150+50 --profile=development --hide-menubar
